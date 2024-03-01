@@ -1,0 +1,8 @@
+prefix: "&8[&aGEMS&8]"
+
+errors:
+  no-permission: "&8[&c!&8] &cInsufficient Permission!"
+  player-not-found: "&8[&c!&8] &cPlayer is not found!"
+
+warnings:
+  player-not-online: "&8[&c!&8] &cThis player is not online (or may not exist) but you can still gift, no refunds are offered!"

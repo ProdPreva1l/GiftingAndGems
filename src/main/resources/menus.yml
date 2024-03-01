@@ -1,0 +1,59 @@
+main:
+  title: "&8[&a?&8] &a&lGems"
+
+gift:
+  title: "&8[&a?&8] &a&lGift"
+
+confirm:
+  title: "&8[&a?&8] &a&lGift &8\u00BB &aConfirm?"
+
+buttons:
+  close:
+    name: "&c&l✗ Close"
+    lore:
+      - "&7Click to close the menu"
+  back:
+    name: "&cGo Back"
+    lore:
+      - "&7Click to go back"
+  previous_page:
+    name: "&c&lPrevious Page"
+    lore:
+      - "&7Click to go to the previous page"
+  next_page:
+    name: "&a&lNext Page"
+    lore:
+      - "&7Click to go to the next page"
+  confirm:
+    name: "&a&lCONFIRM"
+    lore:
+      - "&7Click to confirm"
+  cancel:
+    name: "&c&lCANCEL"
+    lore:
+      - "&7Click to cancel"
+all:
+  back:
+    name: "&cGo Back"
+    lore:
+      - "&7Click to go back"
+  previous_page:
+    name: "&c&lPrevious Page"
+    lore:
+      - "&7Click to go to the previous page"
+  next_page:
+    name: "&a&lNext Page"
+    lore:
+      - "&7Click to go to the next page"
+  close:
+    name: "&c&l✗ Close"
+    lore:
+      - "&7Click to close the menu"
+  confirm:
+    name: "&a&lCONFIRM"
+    lore:
+      - "&7Click to confirm"
+  cancel:
+    name: "&c&lCANCEL"
+    lore:
+      - "&7Click to cancel"

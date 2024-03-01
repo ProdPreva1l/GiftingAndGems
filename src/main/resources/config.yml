@@ -1,0 +1,16 @@
+# Ignore unless instructed otherwise
+debug: false
+
+# Name of the server, for use in cluster mode
+server-name: "server-01"
+
+# If you should be able to gift to offline players, this can result in weird null errors, leave off unless you know what your doing
+allow-offline-gifting: false
+
+mongo:
+  host: "127.0.0.1"
+  port: 27017
+  username: "username"
+  password: "password"
+  database: "database"
+  auth-db: "authDatabase"

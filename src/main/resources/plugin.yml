@@ -1,0 +1,6 @@
+name: GiftingAndGems
+author: Preva1l
+description: A plugin that adds gifting a gems, kinda like hypixel gold
+version: '${version}'
+main: info.preva1l.giftingandgems.GiftingAndGems
+database: true
